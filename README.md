@@ -38,3 +38,15 @@
 - You can also use your own 3D scenes to train PlaceNet.
 - It will be helpful to use the House-Traveler, a trajectory generator that create natural paths in 3D environments.
 - https://github.com/Yoo-Youngjae/house_traveler
+
+
+## Note
+
+- To implement a 3D scene representation and rendering approach, we mainly referenced the Generative Query Networks (GQN).
+
+  **Neural scene representation and rendering**
+  [[PDF]](https://deepmind.com/documents/211/Neural_Scene_Representation_and_Rendering_preprint.pdf)
+  [[Blog]](https://deepmind.com/blog/neural-scene-representation-and-rendering)
+
+  S. M. Ali Eslami, Danilo J. Rezende, Frederic Besse, Fabio Viola, Ari S. Morcos, Marta Garnelo, Avraham Ruderman, Andrei A. Rusu, Ivo Danihelka, Karol Gregor, David P. Reichert, Lars Buesing, Theophane Weber, Oriol Vinyals, Dan Rosenbaum, Neil Rabinowitz, Helen King, Chloe Hillier, Matt Botvinick, Daan Wierstra, Koray Kavukcuoglu and Demis Hassabis
+  
