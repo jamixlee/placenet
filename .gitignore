@@ -1,0 +1,8 @@
+dataset/
+figures/
+__pycache__/
+.git/
+.ipynb_checkpoints/
+.idea/
+*.ipynb
+/venv/
