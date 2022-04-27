@@ -62,4 +62,4 @@
 
 - Pretrained models
 - Visualization codes
-- Dataset template
+- Input data template
