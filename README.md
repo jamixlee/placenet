@@ -5,7 +5,7 @@
 
 ## Dependencies
 
-- Python >= 3.6
+- python>=3.6
 - torch==1.6.0
 - torchvision==0.7.0
 - Pillow==7.2.0
@@ -44,13 +44,9 @@
 
 ## Note
 
-- To implement a 3D scene representation and rendering approach, we mainly referenced the Generative Query Networks (GQN).
+- To implement a 3D scene representation and rendering approach, we referenced the Generative Query Networks (GQN).
 
-  **Neural scene representation and rendering**
-  [[PDF]](https://deepmind.com/documents/211/Neural_Scene_Representation_and_Rendering_preprint.pdf)
-  [[Blog]](https://deepmind.com/blog/neural-scene-representation-and-rendering)
-
-  S. M. Ali Eslami, Danilo J. Rezende, Frederic Besse, Fabio Viola, Ari S. Morcos, Marta Garnelo, Avraham Ruderman, Andrei A. Rusu, Ivo Danihelka, Karol Gregor, David P. Reichert, Lars Buesing, Theophane Weber, Oriol Vinyals, Dan Rosenbaum, Neil Rabinowitz, Helen King, Chloe Hillier, Matt Botvinick, Daan Wierstra, Koray Kavukcuoglu and Demis Hassabis
+  **Neural scene representation and rendering** (https://deepmind.com/documents/211/Neural_Scene_Representation_and_Rendering_preprint.pdf)
   
 - In the course of developing this project, we referenced various GQN implementations:
 
