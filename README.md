@@ -50,3 +50,11 @@
 
   S. M. Ali Eslami, Danilo J. Rezende, Frederic Besse, Fabio Viola, Ari S. Morcos, Marta Garnelo, Avraham Ruderman, Andrei A. Rusu, Ivo Danihelka, Karol Gregor, David P. Reichert, Lars Buesing, Theophane Weber, Oriol Vinyals, Dan Rosenbaum, Neil Rabinowitz, Helen King, Chloe Hillier, Matt Botvinick, Daan Wierstra, Koray Kavukcuoglu and Demis Hassabis
   
+- In the course of developing this project, we referenced various GQN implementations:
+
+  - https://github.com/ogroth/tf-gqn
+  - https://github.com/wohlert/generative-query-network-pytorch
+  - https://github.com/masa-su/pixyzoo/tree/master/GQN
+  - https://github.com/iShohei220/torch-gqn
+  
+  - Among them, I mostly refer to [iShohei220](https://github.com/iShohei220/torch-gqn)'s work, which is composed of the most intuitive codes.
