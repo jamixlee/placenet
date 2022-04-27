@@ -56,3 +56,10 @@
   - https://github.com/iShohei220/torch-gqn
   
   - Among them, I mostly refer to [iShohei220](https://github.com/iShohei220/torch-gqn)'s work, which is composed of the most intuitive codes.
+
+
+## To be shared
+
+- Pretrained models
+- Visualization codes
+- Dataset template
