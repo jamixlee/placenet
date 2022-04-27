@@ -44,9 +44,7 @@
 
 ## Note
 
-- To implement a 3D scene representation and rendering approach, we referenced the Generative Query Networks (GQN).
-
-  **Neural scene representation and rendering** (https://deepmind.com/documents/211/Neural_Scene_Representation_and_Rendering_preprint.pdf)
+- To implement a 3D scene representation and rendering approach, we referenced the Generative Query Networks ([GQN](https://www.science.org/doi/10.1126/science.aar6170)).
   
 - In the course of developing this project, we referenced various GQN implementations:
 
