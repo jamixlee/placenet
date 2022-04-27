@@ -1,6 +1,6 @@
 # PyTorch Implementation of PlaceNet
 
-![placenet_teaser](https://user-images.githubusercontent.com/6002018/165482719-37003726-b5de-43f3-b597-e4f39867ea82.png){: width="400"}
+![placenet_teaser](https://user-images.githubusercontent.com/6002018/165482719-37003726-b5de-43f3-b597-e4f39867ea82.png)
 
 
 ## Dependencies
