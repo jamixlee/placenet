@@ -33,7 +33,7 @@
 
 ## How to download the House dataset
 - http://gofile.me/3TjAz/WmZgNAcyz
-- To access the dataset, please send an email to <tbd>.
+- To access the dataset, please send an email to `TBD`.
 
 
 ## House-Traveler
